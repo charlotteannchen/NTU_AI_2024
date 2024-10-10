@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chenpeian/Documents/1121+1122/_OS/MP3/mp3/xv6/user",
+      "program": "/Users/chenpeian/Documents/1121+1122/_OS/MP3/mp3/xv6/user/build/Debug/outDebug"
+    }
+  ]
+}

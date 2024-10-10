@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "prompt": "How many colors are traditionally recognized in a visible spectrum or optical rainbow?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nHow many colors are traditionally recognized in a visible spectrum or optical rainbow?\n\n### Response:\nThe number of colors in a visible spectrum is 7."
+    },
+    {
+        "id": 2,
+        "prompt": "In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nIn a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?\n\n### Response:\nThe ratio of oranges to apples, bananas, and pears combined within the basket is _____."
+    },
+    {
+        "id": 3,
+        "prompt": "If you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nIf you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?\n\n### Response:\nIf you were a car salesperson, you would first need to educate the buyer on the benefits of electric vehicles. You would then need to show the buyer how electric vehicles are more efficient than gas-powered vehicles. You would also need to educate the buyer on the cost of electric vehicles."
+    },
+    {
+        "id": 4,
+        "prompt": "Break down the process of photosynthesis into a bullet-pointed list, detailing each stage and the overall purpose of the process in sustaining life on Earth.",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nBreak down the process of photosynthesis into a bullet-pointed list, detailing each stage and the overall purpose of the process in sustaining life on Earth.\n\n### Response:\nPhotosynthesis is the process by which plants and some other organisms produce food from carbon dioxide and water. The process involves the use of light energy to split water molecules into oxygen and hydrogen ions. The hydrogen ions combine with carbon dioxide to form glucose, which is used by plants to produce energy."
+    },
+    {
+        "id": 5,
+        "prompt": "Explain why college students should get a library card.",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nExplain why college students should get a library card.\n\n### Response:\nCollege students should get a library card because they can borrow books and other materials."
+    },
+    {
+        "id": 6,
+        "prompt": "What popular toy was invented in 1943 by Richard James, an engineer who accidentally knocked a torsion spring off his workbench?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nWhat popular toy was invented in 1943 by Richard James, an engineer who accidentally knocked a torsion spring off his workbench?\n\n### Response:\nThe answer is the <strong>Torsion Spring</strong>."
+    },
+    {
+        "id": 7,
+        "prompt": "Which famous movie prop designs have become iconic symbols in film history?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nWhich famous movie prop designs have become iconic symbols in film history?\n\n### Response:\nThe Star Wars series of films is a series of science fiction films that have been produced by Lucasfilm Ltd. and released by Walt Disney Studios. The films are set in a fictional universe called the Star Wars universe. The films are based on the original Star Wars trilogy, which was released in 1977, 1980, and 1983. The films are directed by George Lucas. The films are produced by Lucasfilm Ltd. and distributed by Walt Disney Studios. The films are released theatrically in the United States by Walt Disney Studios. The films are released theatrically in the United Kingdom by Walt Disney Studios. The films are released theatrically in Canada by Walt Disney Studios. The films are released theatrically in Australia by Walt Disney Studios. The films are released theatrically in New Zealand by Walt Disney Studios. The films are released theatrically in France by Walt Disney Studios. The films are released theatrically in Germany by Walt Disney Studios. The films are released theatrically in Japan by Walt Disney Studios. The films are released theatrically in Spain by Walt Disney Studios. The films are released theatrically in Italy by Walt Disney Studios. The films are released theatrically in Mexico by Walt Disney Studios. The films are released theatrically in Russia by Walt Disney Studios. The films are released theatrically in South Korea by Walt Disney Studios. The films are released theatrically in Taiwan by Walt Disney Studios. The films are released theatrically in Poland by Walt Disney Studios. The films are released theatrically in the Netherlands by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios. The films are released theatrically in Scandinavia by Walt Disney Studios."
+    },
+    {
+        "id": 8,
+        "prompt": "A curve with a 120 m radius on a level road is banked at the correct angle for a speed of 20 m/s. If an automobile rounds this curve at 30 m/s, what is the minimum coefficient of static friction needed between tires and road to prevent skidding?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nA curve with a 120 m radius on a level road is banked at the correct angle for a speed of 20 m/s. If an automobile rounds this curve at 30 m/s, what is the minimum coefficient of static friction needed between tires and road to prevent skidding?\n\n### Response:\nThe minimum coefficient of static friction needed between tires and road to prevent skidding is $\\mu_s = \\underline{\\text{0.55}}$."
+    },
+    {
+        "id": 9,
+        "prompt": "What can't you see, hear or feel, until its too late. What shadows love, and shopkeepers hate?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nWhat can't you see, hear or feel, until its too late. What shadows love, and shopkeepers hate?\n\n### Response:\nThe answer is:\n"
+    },
+    {
+        "id": 10,
+        "prompt": "In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?",
+        "generated_text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nYou are a helpful assistant chatbot.\n\n### Input:\nIn a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?\n\n### Response:\nThe ratio of oranges to apples, bananas, and pears combined within the basket is _____."
+    }
+]

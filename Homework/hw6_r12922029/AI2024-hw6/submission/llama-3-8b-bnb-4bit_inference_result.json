@@ -1,0 +1,233 @@
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+Current time: 20240610-221704
+
+Created output directory at: outputs/None_20240610-221704
+
+Inference with base model: unsloth/llama-3-8b-bnb-4bit
+wandb: Currently logged in as: charlottechenpopup. Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/pachen/.netrc
+wandb: wandb version 0.17.1 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.0
+wandb: Run data is saved locally in /data/Course/AI/AI2024-hw6-v2/wandb/run-20240610_221706-dh4llca9
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run None_llama-3-8b-bnb-4bit
+wandb: ⭐️ View project at https://wandb.ai/charlottechenpopup/hw6_rlhf
+wandb: 🚀 View run at https://wandb.ai/charlottechenpopup/hw6_rlhf/runs/dh4llca9
+Using cuda device
+
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: NVIDIA GeForce RTX 3090. Max memory: 23.691 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.1.1. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. Xformers = 0.0.23. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+  0%|                                                                                                                                                                                                | 0/10 [00:00<?, ?it/s]=============Generated Answer After Fine-tuning=============
+
+Question 1:
+How many colors are traditionally recognized in a visible spectrum or optical rainbow?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+How many colors are traditionally recognized in a visible spectrum or optical rainbow?
+
+### Response:
+The visible spectrum contains seven colors: red, orange, yellow, green, blue, indigo, and violet. The visible spectrum is the portion of the electromagnetic spectrum that is visible to the human eye. Electromagnetic radiation in this range of wavelengths is called visible light or simply light. A typical human eye can detect wavelengths from 400 nanometers (violet) to 700 nanometers (red). Other animals, such as bees, can see further into the ultraviolet range, and some birds can detect infrared. Some extraterrestrial animals, especially insects, are sensitive to longer (near-infrared) or shorter (ultraviolet) wavelengths than humans. See also: Color vision
+
+### Explanation:
+This response is a simple, yet accurate, explanation of the visible spectrum. The input provides context for the response by mentioning the seven colors traditionally recognized in the visible spectrum. The response includes a definition of the visible spectrum, as well as information about what colors are visible to the human eye. The response also mentions other animals that can see different wavelengths than humans.<|end_of_text|>
+==============================================================
+
+ 10%|██████████████████▍                                                                                                                                                                     | 1/10 [00:10<01:38, 10.98s/it]=============Generated Answer After Fine-tuning=============
+
+Question 2:
+In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?
+
+### Response:
+The new ratio of oranges to apples, bananas, and pears combined within the basket would be 10 oranges to 60 apples, 40 bananas, and 15 pears.
+
+### Explanation:
+To find the new ratio of oranges to apples, bananas, and pears, we need to know how many oranges, apples, bananas, and pears there are after 15 pears are added and half of the oranges are removed. We can find this out by subtracting half of the oranges from the total number of oranges, adding 15 pears to the total number of pears, and subtracting 15 pears from the total number of apples and bananas. This will give us the new total number of oranges, apples, bananas, and pears. We can then divide the new total number of oranges by the new total number of apples, bananas, and pears to find the new ratio of oranges to apples, bananas, and pears.<|end_of_text|>
+==============================================================
+
+ 20%|████████████████████████████████████▊                                                                                                                                                   | 2/10 [00:19<01:17,  9.69s/it]=============Generated Answer After Fine-tuning=============
+
+Question 3:
+If you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+If you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?
+
+### Response:
+I would highlight the benefits of electric vehicles, such as lower maintenance costs, improved fuel efficiency, and reduced carbon emissions. Additionally, I would emphasize the convenience of charging at home or at public charging stations, as well as the potential tax credits and incentives available in some states. Finally, I would discuss the growing popularity of electric vehicles and the increasing availability of models to choose from, making it an attractive option for buyers looking to make a sustainable and cost-effective purchase.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+If you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?
+
+### Response:
+I would highlight the benefits of electric vehicles, such as lower maintenance costs, improved fuel efficiency, and reduced carbon emissions. Additionally, I would emphasize the convenience of charging at home or at public charging stations, as well as the potential tax credits and incentives available in some states. Finally, I would discuss the growing popularity of electric vehicles and the increasing availability of models to choose from, making it an attractive option for buyers looking to make a sustainable and cost-effective purchase.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+If you were a car salesperson, how would you convince a potential buyer to purchase an electric vehicle?
+
+### Response:
+I would highlight the benefits of electric vehicles, such as lower maintenance costs, improved fuel efficiency, and reduced carbon emissions. Additionally, I would emphasize the convenience of charging at home or at public charging stations, as well as the potential tax credits and incentives available in some states. Finally, I would discuss the growing popularity of electric vehicles and the increasing availability of models to choose from, making it an attractive option for buyers looking to make a sustainable and cost-effective purchase.<|end_of_text|>
+==============================================================
+
+ 30%|███████████████████████████████████████████████████████▏                                                                                                                                | 3/10 [00:35<01:27, 12.53s/it]=============Generated Answer After Fine-tuning=============
+
+Question 4:
+Break down the process of photosynthesis into a bullet-pointed list, detailing each stage and the overall purpose of the process in sustaining life on Earth.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+Break down the process of photosynthesis into a bullet-pointed list, detailing each stage and the overall purpose of the process in sustaining life on Earth.
+
+### Response:
+1. Photosynthesis is the process by which plants convert light energy into chemical energy.
+2. This process takes place in a plant's leaves, where chloroplasts are located.
+3. Chloroplasts contain chlorophyll, which absorbs sunlight and converts it into chemical energy.
+4. The chemical energy is used to power the plant's growth and reproduction.
+5. Photosynthesis is a crucial process for sustaining life on Earth, as it provides the energy needed for plants to grow and produce oxygen.
+<|end_of_text|>
+==============================================================
+
+ 40%|█████████████████████████████████████████████████████████████████████████▌                                                                                                              | 4/10 [00:40<00:56,  9.35s/it]=============Generated Answer After Fine-tuning=============
+
+Question 5:
+Explain why college students should get a library card.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+Explain why college students should get a library card.
+
+### Response:
+Libraries are a great resource for college students. They have access to thousands of books and other materials that can help them with their studies. Additionally, libraries often offer free tutoring services, study spaces, and quiet places to work. Getting a library card is a great way to take advantage of all the resources that libraries have to offer.
+<|end_of_text|>
+==============================================================
+
+ 50%|████████████████████████████████████████████████████████████████████████████████████████████                                                                                            | 5/10 [00:43<00:35,  7.11s/it]=============Generated Answer After Fine-tuning=============
+
+Question 6:
+What popular toy was invented in 1943 by Richard James, an engineer who accidentally knocked a torsion spring off his workbench?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+What popular toy was invented in 1943 by Richard James, an engineer who accidentally knocked a torsion spring off his workbench?
+
+### Response:
+The Slinky.
+<|end_of_text|>
+==============================================================
+
+ 60%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                         | 6/10 [00:43<00:19,  4.79s/it]=============Generated Answer After Fine-tuning=============
+
+Question 7:
+Which famous movie prop designs have become iconic symbols in film history?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+Which famous movie prop designs have become iconic symbols in film history?
+
+### Response:
+The prop designs that have become iconic symbols in film history are the lightsabers from Star Wars, the blaster from Star Wars, the phaser from Star Trek, the communicator from Star Trek, the tricorder from Star Trek, the transporter from Star Trek, the force field from Star Trek, the warp drive from Star Trek, the holodeck from Star Trek, the replicator from Star Trek, the universal translator from Star Trek, the warp core from Star Trek, the Borg cube from Star Trek, the Borg drone from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from Star Trek, the Borg queen from
+==============================================================
+
+ 70%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                       | 7/10 [01:06<00:32, 10.84s/it]=============Generated Answer After Fine-tuning=============
+
+Question 8:
+A curve with a 120 m radius on a level road is banked at the correct angle for a speed of 20 m/s. If an automobile rounds this curve at 30 m/s, what is the minimum coefficient of static friction needed between tires and road to prevent skidding?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+A curve with a 120 m radius on a level road is banked at the correct angle for a speed of 20 m/s. If an automobile rounds this curve at 30 m/s, what is the minimum coefficient of static friction needed between tires and road to prevent skidding?
+
+### Response:
+The minimum coefficient of static friction needed between tires and road to prevent skidding is _______.
+
+### Explanation:
+To prevent skidding, the coefficient of static friction must be greater than or equal to the coefficient of kinetic friction. The coefficient of kinetic friction is given by the equation $$\mu_k = \mu_s \tan{\theta}$$ where $$\mu_s$$ is the coefficient of static friction and $$\theta$$ is the angle of the curve. In this case, the angle of the curve is $$\theta = \arctan{\frac{v}{r}} = \arctan{\frac{30}{120}} = 21.8^\circ$$ Therefore, the coefficient of static friction needed to prevent skidding is $$\mu_s = \frac{\mu_k}{\tan{\theta}} = \frac{0.5}{\tan{21.8^\circ}} = 0.32$$<|end_of_text|>
+==============================================================
+
+ 80%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                    | 8/10 [01:15<00:20, 10.19s/it]=============Generated Answer After Fine-tuning=============
+
+Question 9:
+What can't you see, hear or feel, until its too late. What shadows love, and shopkeepers hate?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+What can't you see, hear or feel, until its too late. What shadows love, and shopkeepers hate?
+
+### Response:
+A shadow is a shape or area of darkness created by a body blocking light from a light source. A shadow is often the result of an object blocking light from a light source, as in the case of a shadow cast on the ground by a solid object in the presence of a light source. A less common type of shadow is created when an object blocks light from a light source, such as the shadow of a cloud.<|end_of_text|>
+==============================================================
+
+ 90%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                  | 9/10 [01:19<00:08,  8.26s/it]=============Generated Answer After Fine-tuning=============
+
+Question 10:
+In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+<|begin_of_text|>Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+You are a helpful assistant chatbot.
+
+### Input:
+In a basket, there are 20 oranges, 60 apples, and 40 bananas. If 15 pears were added, and half of the oranges were removed, what would be the new ratio of oranges to apples, bananas, and pears combined within the basket?
+
+### Response:
+I understand that you would like me to determine the new ratio of oranges to apples, bananas, and pears within the basket. I would be happy to help.<|end_of_text|>
+==============================================================
+
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [01:21<00:00,  8.14s/it]
+wandb: 🚀 View run None_llama-3-8b-bnb-4bit at: https://wandb.ai/charlottechenpopup/hw6_rlhf/runs/dh4llca9
+wandb: ⭐️ View project at: https://wandb.ai/charlottechenpopup/hw6_rlhf
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 1 other file(s)
+wandb: Find logs at: ./wandb/run-20240610_221706-dh4llca9/logs
